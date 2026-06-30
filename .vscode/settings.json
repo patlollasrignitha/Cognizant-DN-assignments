@@ -1,7 +1,9 @@
 {
     "java.project.sourcePaths": [
-        "Digital-Nurture-JavaFSE/Java FSE/Deepskilling/Engineering concepts/Design Patterns and Principles/BuilderPatternExample",
+        "Digital-Nurture-JavaFSE/Java FSE/Deepskilling/Engineering concepts/Design Patterns and Principles/SIngletonPatternExample",
         "Digital-Nurture-JavaFSE/Java FSE/Deepskilling/Engineering concepts/Design Patterns and Principles/FactoryMethodPatternExample",
-        "Digital-Nurture-JavaFSE/Java FSE/Deepskilling/Engineering concepts/Design Patterns and Principles/SIngletonPatternExample"
+        "Digital-Nurture-JavaFSE/Java FSE/Deepskilling/Engineering concepts/Design Patterns and Principles/BuilderPatternExample",
+        "Digital-Nurture-JavaFSE/Java FSE/Deepskilling/Engineering concepts/Design Patterns and Principles/AdapterPatternExample",
+        "Digital-Nurture-JavaFSE/Java FSE/Deepskilling/Engineering concepts/Data Structures and algorithms"
     ]
 }
