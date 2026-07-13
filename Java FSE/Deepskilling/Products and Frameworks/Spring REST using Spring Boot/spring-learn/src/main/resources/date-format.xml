@@ -6,11 +6,10 @@
        http://www.springframework.org/schema/beans
        https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-    <bean id="country"
-          class="com.cognizant.springlearn.Country">
+    <bean id="dateFormat"
+          class="java.text.SimpleDateFormat">
 
-        <property name="code" value="IN"/>
-        <property name="name" value="India"/>
+        <constructor-arg value="dd/MM/yyyy"/>
 
     </bean>
 
